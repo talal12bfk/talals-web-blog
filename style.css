@@ -4,6 +4,8 @@
 }
 body {
     background-color: var(--color1);
+    margin: 0;
+    padding: 0;
 }
 nav {
     background-color: var(--color2);
