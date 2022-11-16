@@ -4,6 +4,7 @@
     --color3: #3C5570;
     --color4: #97A3AE;
     --color5: #647B95;
+    --text: #C0BFBA;
 }
 body {
     background-color: var(--color1);
@@ -13,5 +14,9 @@ body {
 nav {
     background-color: var(--color4);
     padding: 1rem;
-    
+    gap: 1rem;
+}
+a {
+    color: var(--text);
+    text-decoration: none;
 }
