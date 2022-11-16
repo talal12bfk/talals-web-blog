@@ -1,6 +1,9 @@
 :root {
     --color1: #E3E3EB;
     --color2: #1B2123;
+    --color3: #3C5570;
+    --color4: #97A3AE;
+    --color5: #647B95;
 }
 body {
     background-color: var(--color1);
@@ -8,7 +11,7 @@ body {
     padding: 0;
 }
 nav {
-    background-color: var(--color2);
-    padding: 2rem;
+    background-color: var(--color4);
+    padding: 1rem;
     
 }
